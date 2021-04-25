@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="br.com.codenation.StatisticUtilTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-02-28T23:54:25" hostname="nandoPC" time="0.002">
+  <properties/>
+  <testcase name="testMode" classname="br.com.codenation.StatisticUtilTest" time="0.002"/>
+  <system-out><![CDATA[2
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
